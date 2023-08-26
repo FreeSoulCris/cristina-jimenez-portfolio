@@ -88,6 +88,11 @@ p {
   max-width: 636px;
   max-height: 636px;
   border-radius: 15px;
+  text-shadow: 2px 2px 4px #000000 !important;
+}
+
+img:hover {
+  transform: scale(1.05);
 }
 
 .primary-link {
